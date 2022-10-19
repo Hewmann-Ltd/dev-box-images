@@ -39,3 +39,4 @@ offer: DevBox
 sku: win11-vs2022
 version: 1.0.0
 os: Windows
+buildResourceGroup: Hewmann
