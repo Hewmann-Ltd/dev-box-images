@@ -29,7 +29,7 @@
 publisher: Hewmann-Ltd
 offer: DevBox
 replicaLocations:
-  - ukwest
+  - uksouth
 buildResourceGroup: Hewmann
 keyVault: hewmanndata
 virtualNetwork: hewmannvnet
