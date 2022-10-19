@@ -36,7 +36,7 @@
 #       the authenticated user of service principal
 
 description: Windows 11 Enterprise + Hyper-V - Nested Ubuntu
-publisher: Contoso
+publisher: Hewmann-Ltd
 offer: DevBox
 sku: win11-hv
 version: 1.0.0
