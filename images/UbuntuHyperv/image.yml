@@ -41,3 +41,5 @@ offer: DevBox
 sku: win11-hv
 version: 1.0.0
 os: Windows
+replicaLocations:
+  - uksouth
