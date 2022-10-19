@@ -4,7 +4,7 @@
 #       The name of the gallery image definition publisher.
 # - offer: (string)
 #       The name of the gallery image definition offer
-# - replicaLocations: (array using - notation)d
+# - replicaLocations: (array using - notation)
 #       The target regions where the Image Version is going to be replicated to
 # - sku: (string)
 #       The name of the gallery image definition SKU
