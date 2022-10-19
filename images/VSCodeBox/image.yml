@@ -34,7 +34,7 @@
 #       the authenticated user of service principal
 
 description: Windows 11 Enterprise + M365 Apps + VSCode
-publisher: Contoso
+publisher: Hewmann-Ltd
 offer: DevBox
 sku: win11-vscode
 version: 1.0.0
